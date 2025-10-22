@@ -9,6 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
+    <groupId>com.hospital</groupId>
     <artifactId>Backend</artifactId>
 
     <properties>
